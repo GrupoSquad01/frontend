@@ -5,9 +5,9 @@ export default function Home() {
     return(
         <>
         <Header />
-            <div>
+            {/* <div>
                 <h1>Bem vindo ao Acerta!</h1>
-            </div>
+            </div> */}
         <Footer />
         </>
     )
