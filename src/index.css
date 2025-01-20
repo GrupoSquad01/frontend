@@ -3,3 +3,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.titulo_input {
+    @apply text-sm my-3;
+}
+
+.input {
+    @apply bg-cinza-1 text-base focus:border-roxo rounded h-11  placeholder:text-base border-cinza-2 border-2
+}
+
+.btn_branco {
+    @apply bg-white font-medium text-base border-cinza-1 border-2 rounded-lg px-6 py-2
+}
+
+.btn_roxo {
+    @apply bg-roxo text-white font-medium text-base px-6 py-2 rounded-lg
+}
+
+.btn_foto {
+    @apply bg-white font-medium text-base border-cinza-1 border-2 rounded-lg px-2 py-1
+}
+
+.foto_perfil {
+    @apply size-16 rounded-full mr-4
+}
+
+.avatar {
+    @apply grid grid-cols-3 gap-6 p-7 justify-items-center max-w-lg
+}
+
+.img_avatar {
+    @apply size-16 rounded-full 
+}
