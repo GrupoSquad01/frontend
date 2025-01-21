@@ -9,7 +9,15 @@
 }
 
 .input {
-    @apply bg-cinza-1 text-base focus:border-roxo rounded h-11  placeholder:text-base border-cinza-2 border-2
+    @apply bg-cinza-1 text-base focus:border-roxo rounded h-11 placeholder:text-base border-cinza-2 border-2 pl-10 w-full
+}
+
+.icon_input {
+    @apply absolute left-3 text-gray-500
+}
+
+.div_input {
+    @apply relative flex items-center
 }
 
 .btn_branco {
