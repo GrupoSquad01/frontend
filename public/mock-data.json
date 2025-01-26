@@ -1,0 +1,132 @@
+[
+    {
+      "numero": 1,
+      "titulo": "Português",
+      "enunciado": "Leia o texto a seguir: 'O homem é do tamanho do seu sonho.' Qual é a mensagem principal desse texto?",
+      "alternativas": [
+        "A importância de sonhar alto.",
+        "O sonho é irrelevante.",
+        "Os sonhos limitam as pessoas.",
+        "Não há como medir os sonhos.",
+        "Sonhar não faz parte da realidade."
+      ],
+      "respostaCorreta": "A importância de sonhar alto."
+    },
+    {
+      "numero": 2,
+      "titulo": "História",
+      "enunciado": "Leia o texto a seguir: 'A Revolução Francesa, iniciada em 1789, marcou o fim do absolutismo e o início de um período de profundas mudanças políticas.' Qual foi a principal causa da Revolução Francesa?",
+      "alternativas": [
+        "A expansão da industrialização.",
+        "A insatisfação com os altos impostos e a desigualdade.",
+        "A descoberta de novas terras.",
+        "A busca pela independência das colônias.",
+        "O aumento do poder da monarquia."
+      ],
+      "respostaCorreta": "A insatisfação com os altos impostos e a desigualdade."
+    },
+    {
+      "numero": 3,
+      "titulo": "Biologia",
+      "enunciado": "Leia o texto a seguir: 'As florestas tropicais abrigam cerca de 80% da biodiversidade terrestre do planeta.' Qual é o principal impacto da destruição dessas florestas?",
+      "alternativas": [
+        "Aumento do turismo sustentável.",
+        "Redução da biodiversidade global.",
+        "Maior controle do desmatamento.",
+        "Expansão das áreas urbanas.",
+        "Melhoria na qualidade do ar."
+      ],
+      "respostaCorreta": "Redução da biodiversidade global."
+    },
+    {
+      "numero": 4,
+      "titulo": "Física",
+      "enunciado": "Leia o texto a seguir: 'Quando um objeto é solto de certa altura, ele acelera devido à gravidade até atingir o solo.' Qual é o nome da força responsável por essa aceleração?",
+      "alternativas": [
+        "Força centrípeta.",
+        "Força gravitacional.",
+        "Força eletromagnética.",
+        "Força de atrito.",
+        "Força nuclear."
+      ],
+      "respostaCorreta": "Força gravitacional."
+    },
+    {
+      "numero": 5,
+      "titulo": "Geografia",
+      "enunciado": "Leia o texto a seguir: 'O desmatamento da Amazônia pode impactar o regime de chuvas em outras regiões do Brasil.' Qual é a relação entre o desmatamento e as chuvas?",
+      "alternativas": [
+        "Aumenta a poluição das águas.",
+        "Interrompe o ciclo hidrológico.",
+        "Gera aumento da umidade no solo.",
+        "Diminui a evaporação na floresta.",
+        "Cria novas áreas para agricultura."
+      ],
+      "respostaCorreta": "Interrompe o ciclo hidrológico."
+    },
+    {
+      "numero": 6,
+      "titulo": "Matemática",
+      "enunciado": "Leia o texto a seguir: 'João comprou 3 maçãs por R$2 cada e 2 bananas por R$1,50 cada. Quanto ele gastou no total?'",
+      "alternativas": [
+        "R$5,50",
+        "R$7,00",
+        "R$8,00",
+        "R$10,00",
+        "R$11,00"
+      ],
+      "respostaCorreta": "R$8,00"
+    },
+    {
+      "numero": 7,
+      "titulo": "Química",
+      "enunciado": "Leia o texto a seguir: 'A água é conhecida como solvente universal devido à sua capacidade de dissolver diversas substâncias.' O que torna a água um bom solvente?",
+      "alternativas": [
+        "Sua densidade.",
+        "Sua polaridade.",
+        "Seu ponto de fusão.",
+        "Sua temperatura ambiente.",
+        "Sua cor e transparência."
+      ],
+      "respostaCorreta": "Sua polaridade."
+    },
+    {
+      "numero": 8,
+      "titulo": "Literatura",
+      "enunciado": "Leia o texto a seguir: 'Capitu tinha olhos de ressaca, que pareciam puxar quem os olhasse para dentro deles.' Essa descrição é de qual obra literária?",
+      "alternativas": [
+        "Dom Casmurro.",
+        "O Cortiço.",
+        "Memórias Póstumas de Brás Cubas.",
+        "Senhora.",
+        "Iracema."
+      ],
+      "respostaCorreta": "Dom Casmurro."
+    },
+    {
+      "numero": 9,
+      "titulo": "Inglês",
+      "enunciado": "Leia o texto a seguir: 'The dog is barking because it sees a stranger.' O que está acontecendo no texto?",
+      "alternativas": [
+        "O cachorro está com fome.",
+        "O cachorro está latindo.",
+        "O cachorro está dormindo.",
+        "O cachorro está brincando.",
+        "O cachorro está doente."
+      ],
+      "respostaCorreta": "O cachorro está latindo."
+    },
+    {
+      "numero": 10,
+      "titulo": "Filosofia",
+      "enunciado": "Leia o texto a seguir: 'Penso, logo existo.' Essa frase foi dita por qual filósofo?",
+      "alternativas": [
+        "Aristóteles.",
+        "René Descartes.",
+        "Sócrates.",
+        "Platão.",
+        "Jean-Paul Sartre."
+      ],
+      "respostaCorreta": "René Descartes."
+  }
+  ]
