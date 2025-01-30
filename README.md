@@ -1,8 +1,68 @@
-# React + Vite
+# Acerta - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Sobre o projeto
+O **Acerta** é um aplicativo web desenvolvido para auxiliar nos estudos para vestibulares, combinando gamificação e inteligência artificial. Este repositório contém o código-fonte do **frontend**, construído com **React, Vite e Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias utilizadas
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router](https://reactrouter.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Estrutura do projeto
+```bash
+frontend/
+├── public/                  # Arquivos públicos
+│   ├── mock-data.json       # Dados mockados para teste
+│
+├── src/                     # Código-fonte principal
+│   ├── assets/              # Imagens e ícones
+│   ├── components/          # Componentes reutilizáveis
+│   │   ├── Footer.jsx
+│   │   ├── Header.jsx
+│   │   ├── Navbar.jsx
+│   ├── pages/               # Páginas do app
+│   │   ├── Exercise.jsx
+│   │   ├── Home.jsx
+│   │   ├── Login.jsx
+│   │   ├── MainInicial.jsx
+│   │   ├── Perfil.jsx
+│   │   ├── ResultPage.jsx
+│   ├── App.jsx              # Componente principal
+│   ├── Routes.jsx           # Definição das rotas
+│   ├── main.jsx             # Ponto de entrada da aplicação
+│
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+```
+
+## 🛠️ Como rodar o projeto
+### 🔹 Pré-requisitos
+Antes de começar, certifique-se de ter o **Node.js** instalado. Se não tiver, baixe em [nodejs.org](https://nodejs.org/).
+
+### 🔹 Instalação e execução
+```sh
+git clone https://github.com/GrupoSquad01/appacerta.git
+cd appacerta/frontend
+npm install
+npm run dev
+```
+Acesse no navegador: `http://localhost:5173`
+
+## 🔄 Configuração de ambiente
+Caso o projeto precise de variáveis de ambiente, crie um arquivo `.env` na raiz do frontend e adicione as chaves necessárias. Exemplo:
+```env
+VITE_API_URL=http://localhost:8080/api
+```
+
+## 🎯 Funcionalidades principais
+- ✅ Login e autenticação de usuários  
+- ✅ Navegação entre páginas usando React Router  
+- ✅ Interface responsiva com Tailwind CSS  
+- ✅ Comunicação com o backend via API REST  
+
+## 📜 Licença
+Este projeto é de código aberto e está sob a licença MIT.
