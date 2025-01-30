@@ -1,7 +1,14 @@
-# Acerta - Frontend
+# Acerta! - Frontend
 
 ## 📌 Sobre o projeto
-O **Acerta** é um aplicativo web desenvolvido para auxiliar nos estudos para vestibulares, combinando gamificação e inteligência artificial. Este repositório contém o código-fonte do **frontend**, construído com **React, Vite e Tailwind CSS**.
+O **Acerta!** é uma aplicação web destinada ao estudo de vestibulares, concursos, etc, que utiliza gamificação e IA para ajudar os usuários a se prepararem de maneira eficaz. 
+
+A principal proposta do AppAcerta é proporcionar aos usuários uma experiência de aprendizado dinâmica, com questões personalizadas pela IA, além de um sistema de XP (experiência) para incentivar o engajamento contínuo com os estudos.
+
+Este repositório contém o código-fonte do **frontend**, construído com **React, Vite e Tailwind CSS**.
+
+
+
 
 ## 🚀 Tecnologias utilizadas
 - [React](https://react.dev/)
