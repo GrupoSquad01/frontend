@@ -1,10 +1,10 @@
 import {BrowserRouter, Route, Routes} from "react-router-dom"
 import Home from "./pages/Home"
-import Login from "./Pages/Login"
-import MenuInicial from "./Pages/MenuInicial"
-import Perfil from "./Pages/Perfil"
-import Exercises from "./Pages/Exercises"
-import ResultPage from "./Pages/ResultPage"
+import Login from "./pages/Login"
+import MenuInicial from "./pages/MenuInicial"
+import Perfil from "./pages/Perfil"
+import Exercises from "./pages/Exercises"
+import ResultPage from "./pages/ResultPage"
 
 export default function AppRoutes() {
 
@@ -17,6 +17,7 @@ export default function AppRoutes() {
                 <Route path="/perfil" element={ <Perfil />}></Route>
                 <Route path="/exercises" element={ <Exercises />}></Route>
                 <Route path="/result" element={ <ResultPage />}></Route>
+                <Route path="/Home" element={ <Home />}></Route>
             </Routes>
         </BrowserRouter>
     )
