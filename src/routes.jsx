@@ -5,6 +5,8 @@ import MenuInicial from "./Pages/MenuInicial"
 import Perfil from "./Pages/Perfil"
 import Exercises from "./Pages/Exercises"
 import ResultPage from "./Pages/ResultPage"
+import Materias from "./Pages/Materias"
+
 
 export default function AppRoutes() {
 
@@ -17,6 +19,7 @@ export default function AppRoutes() {
                 <Route path="/perfil" element={ <Perfil />}></Route>
                 <Route path="/exercises" element={ <Exercises />}></Route>
                 <Route path="/result" element={ <ResultPage />}></Route>
+                <Route path="/materias" element={ <Materias />}></Route>
             </Routes>
         </BrowserRouter>
     )
