@@ -10,7 +10,7 @@ import Historia_Logo from "../assets/Historia_Logo.svg";
 import Geografia_Logo from "../assets/Geografia_Logo.svg";
 import Filosofia_Sociologia_Logo from "../assets/Filosofia_Sociologia_Logo.svg";
 
-export default function Home() {
+export default function Materias() {
   return (
     <>
       <Header />

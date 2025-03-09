@@ -6,6 +6,7 @@ import Perfil from "./Pages/Perfil"
 import Exercises from "./Pages/Exercises"
 import ResultPage from "./Pages/ResultPage"
 import Materias from "./Pages/Materias"
+import Dashboard from "./pages/Dashboard"
 
 
 export default function AppRoutes() {
@@ -20,6 +21,7 @@ export default function AppRoutes() {
                 <Route path="/exercises" element={ <Exercises />}></Route>
                 <Route path="/result" element={ <ResultPage />}></Route>
                 <Route path="/materias" element={ <Materias />}></Route>
+                <Route path="/dashboard" element={ <Dashboard />}></Route>
             </Routes>
         </BrowserRouter>
     )

@@ -12,16 +12,16 @@ export default function Header() {
           alt="Logo da página"
           className="h-10 w-10 bg-slate-50"
         />
-        <h1 className="bg-slate-50 text-indigo-950 text-2xl font-bold">
+        <h1 className="bg-slate-50 text-indigo-950 text-2xl font-bold max-sm:hidden">
           Acerta!
         </h1>
       </section>
 
       <section className="flex justify-center items-center bg-slate-50 gap-5">
-        <div className="flex gap-2 bg-slate-50 mr-4">
+        <div className="flex gap-2 bg-slate-50 mr-4 max-sm:ml-6">
           <button>
             <img
-              className="bg-slate-50 h-9 w-9 hover:bg-slate-'950"
+              className="bg-slate-50 h-9 w-9"
               src={Sininho}
               alt="Sininho"
             />
@@ -29,7 +29,7 @@ export default function Header() {
 
           <button>
             <img
-              className="bg-slate-50 h-9 w-9 hover:bg-slate-200"
+              className="bg-slate-50 h-9 w-9"
               src={Mensagens}
               alt="Mensagens"
             />
